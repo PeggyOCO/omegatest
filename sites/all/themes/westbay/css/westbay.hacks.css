@@ -7,8 +7,8 @@
   html body.toolbar, html body.admin-menu {
     padding-top: 0 !important;
     margin-top: 0 !important; }
-    /* line 14, ../sass/westbay.hacks.scss */
-    html body.toolbar body, html body.admin-menu body {
-      background-color: #9c4228; } }
+  /* line 17, ../sass/westbay.hacks.scss */
+  html body {
+    background-color: #9c4228; } }
 
 /*# sourceMappingURL=westbay.hacks.css.map */

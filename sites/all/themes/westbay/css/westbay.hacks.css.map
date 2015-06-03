@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,iCAAkC;EAChC,qBAAsB;IACpB,OAAO,EAAE,IAAI;;EAIb,uCAA8B;IAC5B,WAAW,EAAE,YAAY;IACzB,UAAU,EAAE,YAAY;IACzB,iDAAI;MAAC,gBAAgB,ECZjB,OAAO",
+"sources": ["../sass/westbay.hacks.scss","../sass/variables/_colors.scss"],
+"names": [],
+"file": "westbay.hacks.css"
+}

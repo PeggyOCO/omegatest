@@ -4,4 +4,4 @@ header('Content-Type: image/png');
 imagepng($im);
 imagedestroy($im);
 ?>
-<h2>test</h2>
+<h2>test 1 </h2>
